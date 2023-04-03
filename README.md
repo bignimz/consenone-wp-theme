@@ -9,7 +9,7 @@ ConsenOne is a premium WordPress theme custom developed using PHP 8, MySQL, and 
 
 
 ## Dashboard Preview
-
+![Consenone]("/../dashboard.png)
 
 
 ## Technologies Used
