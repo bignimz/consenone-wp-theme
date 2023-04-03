@@ -2,7 +2,11 @@
 
 ConsenOne is a premium WordPress theme custom developed using PHP 8, MySQL, and using WordPress Rest API, Custom Post Types and Advanced Custom Fields. The Theme can be used by corporate businesses or companies and it offers easy customization, maintenance and expansion of features.
 
+
+## Theme Preview
+
 ![Consenone]("/../screenshot.png)
+
 
 ## Dashboard Preview
 
